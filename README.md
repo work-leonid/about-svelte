@@ -65,16 +65,16 @@ codefestru, 3 июня 2019 г.
 
 **[Уроки по Svelte](https://www.youtube.com/watch?v=KFfrWoLqNt0&list=PLqKQF2ojwm3mgL-JymBaquJItb0eP0MTR)**, Владилен Минин, опубликовано 12 июня 2019 г.
 
-Серия уроков про Свелт
-- Что такое SvelteJS (отличие от React, Angular, Vue)
-- Как работает SvelteJS
-- Переменные и стили в SvelteJS
-- Как добавлять события в SvelteJS
-- Реактивность в SvelteJS
-- Как SvelteJS работает с формами (bind)
-- Как работают условные операторы в SvelteJS
-- Как создавать компоненты  в SvelteJS
-- Как работают циклы в SvelteJS. Зачем нужен key
+> Серия уроков про Свелт
+> - Что такое SvelteJS (отличие от React, Angular, Vue)
+> - Как работает SvelteJS
+> - Переменные и стили в SvelteJS
+> - Как добавлять события в SvelteJS
+> - Реактивность в SvelteJS
+> - Как SvelteJS работает с формами (bind)
+> - Как работают условные операторы в SvelteJS
+> - Как создавать компоненты  в SvelteJS
+> - Как работают циклы в SvelteJS. Зачем нужен key
  
  ---
 
