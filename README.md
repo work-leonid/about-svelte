@@ -13,6 +13,8 @@
 
 # Перевод документации
 
+## Svelte
+
 **[Учебник](https://ru.svelte.dev/tutorial/basics)**
 
 **[API](https://ru.svelte.dev/docs)**
@@ -21,7 +23,9 @@
 
 **[Блог](https://ru.svelte.dev/blog)**
 
+## Sapper
 
+**[Документация](https://ru.sapper.svelte.dev/docs)**
 
 ---
 
