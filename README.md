@@ -146,8 +146,3 @@ https://github.com/ryanatkn/awesome-svelte-resources#routers
 https://github.com/ryanatkn/awesome-svelte-resources#internationalization-components
 
 
-# Что послушать/посмотреть про Свелт на русском?
-
-
-
-
