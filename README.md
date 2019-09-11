@@ -1,18 +1,18 @@
 # О Свелте на русском языке
 
-Это список различной информации на русском языке где рассказывают и обсуждают о [Svelte](https://svelte.dev/) и [Sapper](https://sapper.svelte.dev/)
+Это список различной информации на русском языке где рассказывают и обсуждают о [Svelte](https://svelte.dev/) и [Sapper](https://sapper.svelte.dev/).
 
-[Перевод документации]()
+[Перевод документации](https://github.com/work-leonid/about-svelte/blob/master/README.md#перевод-документации)
 
-[Телеграм]()
+[Сообщества](https://github.com/work-leonid/about-svelte/blob/master/README.md#сообщества)
 
-[Видео]()
+[Видео](https://github.com/work-leonid/about-svelte/blob/master/README.md#видео)
 
-[Подкасты]()
+[Подкасты](https://github.com/work-leonid/about-svelte/blob/master/README.md#подкасты)
 
-[Стать]()
+[Статьи](https://github.com/work-leonid/about-svelte/blob/master/README.md#статьи)
 
-[Частые вопросы из канала Svelte]()
+[Частые вопросы из канала Svelte](https://github.com/work-leonid/about-svelte/blob/master/README.md#частые-вопросы-из-чата)
 
 ---
 
