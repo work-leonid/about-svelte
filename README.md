@@ -1,4 +1,4 @@
-# О Свелте на русском языке
+# О Svelte и Sapper на русском языке
 
 Это список различной информации на русском языке о [Svelte](https://svelte.dev/) и [Sapper](https://sapper.svelte.dev/).
 
