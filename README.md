@@ -50,6 +50,10 @@
 
 ## Svelte 3
 
+**[Reactive programming. Svelte way](https://www.youtube.com/watch?v=XkRR4Sp6tsQ)**, Александр Ковтун, VinnytsiaJS 2019, опубликовано 5 сентября 2019 г.
+
+---
+
 **[🔥 Svelte Cookbook. Мастер класс по SvelteJS](https://www.youtube.com/watch?v=I5DIcbcXzfE)**, Павел Малышев,
 HolyJS, опубликовано 28 августа 2019 г.
 
