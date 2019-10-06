@@ -50,6 +50,10 @@
 
 ## Svelte 3
 
+**[О Svelte](https://youtu.be/bTdy18zzttc?t=1138)**, Александр Зинченко, GetIT 2019, опубликовано 26 сентября 2019 г.
+
+---
+
 **[Reactive programming. Svelte way](https://www.youtube.com/watch?v=XkRR4Sp6tsQ)**, Александр Ковтун, VinnytsiaJS 2019, опубликовано 5 сентября 2019 г.
 
 ---
