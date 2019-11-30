@@ -31,7 +31,9 @@
 # Подборки компонентов
 Самые полные списки различных компонентов, библиотек и всего что может быть полезно при разработке.  
 [awesome Svelte resources](https://github.com/ryanatkn/awesome-svelte-resources)
+
 [Svelte resources](https://svelte-community.netlify.com/code/)
+
 [made with Svelte](https://madewithsvelte.com)
 
 ---
