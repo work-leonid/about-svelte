@@ -59,6 +59,24 @@
 
 ## Svelte 3
 
+**[Web Components, или Туда и обратно](https://www.youtube.com/watch?v=6pkHf2tY4Tc)**, Павел Малышев, РИТ++ 2019, опубликовано 21 февраля 2019 г.
+
+> Тезисы и презентация http://frontendconf.ru/moscow-rit/2019/abstracts/4622
+
+---
+
+
+**[Про чешское светлое](https://www.youtube.com/watch?v=6pkHf2tY4Tc)**, Александр Шушунов, на митапе Tver.io Polyglot Meetup, опубликовано 21 февраля 2019 г.
+
+> Ссылка на слайды https://tver.io/meetup/2019/02-polyglot/slides/2019-ashushunov-svelte-first-try.pdf
+> Исходный код https://github.com/AlexanderShushunov/guess_who
+
+---
+
+**[Стоит ли делать ставку на Svelte?](https://www.youtube.com/watch?v=J6axyeuqu9A)**, Илья Климов, для https://www.patreon.com/javascriptninja, опубликовано 24 января 2020 г.
+
+---
+
 **[Павел Малышев. State of SvelteJS](https://www.youtube.com/watch?v=7XILWTTnULo)**, Павел Малышев, Dump, опубликовано 9 декабря 2019 г.
 
 > Павел расскажет о текущем состоянии набирающего популярность компилируемого фреймворка SvelteJS, его экосистемы и сообщества, а также почему это не «yet another JS framework» и вам стоит присмотреться к нему.
@@ -155,19 +173,19 @@ FrontendConf 2018, опубликовано 28 мая 2019 г.
 ## ⚠️ Svelte 2
 Актуальная версия Svelte 3. Изменился синтаксис, но основные подходы и преимущества остались актуальными. 
 
+**[Магически исчезающий JS фреймворк](https://www.youtube.com/watch?v=laK43QpHYdg)**, Павел Малышев, JS NN, опубликовано 19 мая 2018 г.
+> Поговорим о новом тренде AoT-компиляторов в ванилу на примере SvelteJS
+
 ---
+
 **["Первый взгляд на Svelte"](https://www.youtube.com/watch?v=zn0aNihceDk)**, Александр Шушунов, EPAM Moscow ITsubbotnik, опубликовано 16 мая 2019 г.
 
 > Доклад на примере приложения "Угадай кто?". 
 
-Приложение-викторина "Угадай кто?" [исходный код](https://github.com/alexandershushunov/guess_who)
-[Слайды](https://drive.google.com/file/d/1i-h-yqs33jPTUjjyJayd4ThMXeudji9C/view?usp=sharing)
+> Приложение-викторина "Угадай кто?" [исходный код](https://github.com/alexandershushunov/guess_who)
+> [Слайды](https://drive.google.com/file/d/1i-h-yqs33jPTUjjyJayd4ThMXeudji9C/view?usp=sharing)
+> Так же есть версия приложения для Svelte 3, см. выше
 
-У Александра есть еще один доклад посвященный этому приложению:
-
-**["Про чешское светлое"](https://www.youtube.com/watch?v=6pkHf2tY4Tc&t=1s)**, Александр Шушунов, на митапе Tver.io Polyglot Meetup 21 февраля 2019, опубликовано 1 марта 2019 г.
-
-[Слайды](http://tver.io/meetup/2019/02-polyglot/slides/2019-ashushunov-svelte-first-try.pdf)
 
 ---
 
@@ -268,7 +286,7 @@ FrontendConf 2018, опубликовано 28 мая 2019 г.
 
 ---
 
-**[Почему SvelteJS возможно лучший фреймворк для новых веб-разработчиков](https://habr.com/ru/post/438834/)**
+**[У дизайнера новая идея? Что может быть проще](https://habr.com/ru/post/438834/)**
 
 >Стоит ли как-то кастомизировать существующие компоненты? Да еще так, чтобы не отхватить регрешн на существующих кейсах. Или же действовать по принципу «работает — не трогай» и написать новые компоненты с нуля. При этом, раздувая UIkit и усложняя поддержку.
 
