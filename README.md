@@ -59,6 +59,11 @@
 
 ## Svelte 3
 
+**[🔥 Svelte Russia Meetup #1](https://www.youtube.com/watch?v=H2l3pK42f38&feature=youtu.be)**, опубликовано 22 февраля 2019 г.
+
+---
+
+
 **[Web Components, или Туда и обратно](https://www.youtube.com/watch?v=6pkHf2tY4Tc)**, Павел Малышев, РИТ++ 2019, опубликовано 21 февраля 2019 г.
 
 > Тезисы и презентация http://frontendconf.ru/moscow-rit/2019/abstracts/4622
